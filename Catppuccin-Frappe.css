@@ -1,0 +1,39 @@
+:root {
+  /* CATPPUCCIN FRAPPÉ REFERENCE
+     Base #303446  Mantle #292C3C  Crust #232634
+     Surface0 #414559  Surface1 #51576D  Surface2 #626880
+     Overlay0 #737994  Subtext0 #A5ADCE  Subtext1 #B5BFE2  Text #C6D0F5
+     Mauve #CA9EE6  Blue #8CAAEE  Lavender #BABBF1  Sapphire #85C1DC
+     Green #A6D189  Yellow #E5C890  Red #E78284  Peach #EF9F76 */
+
+  --brand-primary: #CA9EE6;
+  --brand-secondary: #BABBF1;
+  --brand-primary-light: #8CAAEE;
+
+  --background-primary: #303446;
+  --background-secondary: #303446;
+  --background-secondary-alt: #292C3C;
+  --background-tertiary: #292C3C;
+  --background-textarea: #414559;
+  --background-header-primary: #292C3C;
+  --background-header-secondary: #292C3C;
+  --background-header-primary-hover: #414559;
+
+  --text-primary: #C6D0F5;
+  --text-secondary: #B5BFE2;
+  --text-tertiary: #A5ADCE;
+  --text-chat: #C6D0F5;
+  --text-link: #8CAAEE;
+
+  --status-online: #A6D189;
+  --status-idle: #E5C890;
+  --status-dnd: #E78284;
+  --status-offline: #737994;
+
+  --border-color: #414559;
+  --button-primary-fill: #8CAAEE;
+  --button-danger-fill: #E78284;
+
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", Menlo, monospace;
+}
