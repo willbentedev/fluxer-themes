@@ -1,0 +1,44 @@
+:root {
+  /* CATPPUCCIN MOCHA REFERENCE
+     Base #1E1E2E  Mantle #181825  Crust #11111B
+     Surface0 #313244  Surface1 #45475A  Surface2 #585B70
+     Overlay0 #6C7086  Subtext0 #A6ADC8  Subtext1 #BAC2DE  Text #CDD6F4
+     Mauve #CBA6F7  Blue #89B4FA  Lavender #B4BEFE  Sapphire #74C7EC
+     Green #A6E3A1  Yellow #F9E2AF  Red #F38BA8  Peach #FAB387 */
+
+  /* BRAND / ACCENT */
+  --brand-primary: #CBA6F7;       /* Mauve */
+  --brand-secondary: #B4BEFE;     /* Lavender */
+  --brand-primary-light: #89B4FA; /* Blue */
+
+  /* BACKGROUNDS */
+  --background-primary: #1E1E2E;          /* Base */
+  --background-secondary: #1E1E2E;
+  --background-secondary-alt: #181825;    /* Mantle */
+  --background-tertiary: #181825;
+  --background-textarea: #313244;         /* Surface0 */
+  --background-header-primary: #181825;
+  --background-header-secondary: #181825;
+  --background-header-primary-hover: #313244;
+
+  /* TEXT & STATUS */
+  --text-primary: #CDD6F4;    /* Text */
+  --text-secondary: #BAC2DE;  /* Subtext1 */
+  --text-tertiary: #A6ADC8;   /* Subtext0 */
+  --text-chat: #CDD6F4;
+  --text-link: #89B4FA;       /* Blue */
+
+  --status-online: #A6E3A1;   /* Green */
+  --status-idle: #F9E2AF;     /* Yellow */
+  --status-dnd: #F38BA8;      /* Red */
+  --status-offline: #6C7086;  /* Overlay0 */
+
+  /* BORDERS & BUTTONS */
+  --border-color: #313244;         /* Surface0 */
+  --button-primary-fill: #89B4FA;  /* Blue */
+  --button-danger-fill: #F38BA8;   /* Red */
+
+  /* TYPOGRAPHY */
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", Menlo, monospace;
+}
