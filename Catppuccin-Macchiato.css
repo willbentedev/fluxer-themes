@@ -1,0 +1,39 @@
+:root {
+  /* CATPPUCCIN MACCHIATO REFERENCE
+     Base #24273A  Mantle #1E2030  Crust #181926
+     Surface0 #363A4F  Surface1 #494D64  Surface2 #5B6078
+     Overlay0 #6E738D  Subtext0 #A5ADCB  Subtext1 #B8C0E0  Text #CAD3F5
+     Mauve #C6A0F6  Blue #8AADF4  Lavender #B7BDF8  Sapphire #7DC4E4
+     Green #A6DA95  Yellow #EED49F  Red #ED8796  Peach #F5A97F */
+
+  --brand-primary: #C6A0F6;
+  --brand-secondary: #B7BDF8;
+  --brand-primary-light: #8AADF4;
+
+  --background-primary: #24273A;
+  --background-secondary: #24273A;
+  --background-secondary-alt: #1E2030;
+  --background-tertiary: #1E2030;
+  --background-textarea: #363A4F;
+  --background-header-primary: #1E2030;
+  --background-header-secondary: #1E2030;
+  --background-header-primary-hover: #363A4F;
+
+  --text-primary: #CAD3F5;
+  --text-secondary: #B8C0E0;
+  --text-tertiary: #A5ADCB;
+  --text-chat: #CAD3F5;
+  --text-link: #8AADF4;
+
+  --status-online: #A6DA95;
+  --status-idle: #EED49F;
+  --status-dnd: #ED8796;
+  --status-offline: #6E738D;
+
+  --border-color: #363A4F;
+  --button-primary-fill: #8AADF4;
+  --button-danger-fill: #ED8796;
+
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", Menlo, monospace;
+}
